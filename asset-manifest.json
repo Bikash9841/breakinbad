@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/breakinbad/static/css/main.e6b18165.chunk.css",
+    "main.js": "/breakinbad/static/js/main.ae345af5.chunk.js",
+    "main.js.map": "/breakinbad/static/js/main.ae345af5.chunk.js.map",
+    "runtime-main.js": "/breakinbad/static/js/runtime-main.451025ed.js",
+    "runtime-main.js.map": "/breakinbad/static/js/runtime-main.451025ed.js.map",
+    "static/js/2.2d32270d.chunk.js": "/breakinbad/static/js/2.2d32270d.chunk.js",
+    "static/js/2.2d32270d.chunk.js.map": "/breakinbad/static/js/2.2d32270d.chunk.js.map",
+    "index.html": "/breakinbad/index.html",
+    "static/css/main.e6b18165.chunk.css.map": "/breakinbad/static/css/main.e6b18165.chunk.css.map",
+    "static/js/2.2d32270d.chunk.js.LICENSE.txt": "/breakinbad/static/js/2.2d32270d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/breakinbad/static/media/bg.085908ea.jpg",
+    "static/media/logo.e6ecab44.png": "/breakinbad/static/media/logo.e6ecab44.png",
+    "static/media/spinner.11d9cde8.gif": "/breakinbad/static/media/spinner.11d9cde8.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.451025ed.js",
+    "static/js/2.2d32270d.chunk.js",
+    "static/css/main.e6b18165.chunk.css",
+    "static/js/main.ae345af5.chunk.js"
+  ]
+}
